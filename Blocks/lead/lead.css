@@ -3,4 +3,8 @@
     margin: 0 auto;
     text-align: center;
     padding: 0 148px 92px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
