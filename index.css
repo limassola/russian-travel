@@ -30,10 +30,20 @@
 @import url(./Blocks/photo-grid/__item/photo-grid__item.css);
 
 /* Places */
+@import url(./Blocks/places/places.css);
+
+/* Place */
+@import url(./Blocks/place/place.css); /*Исправь сетку*/
+@import url(./Blocks/place/__title/place__title.css);
+@import url(./Blocks/place/__image/place__image.css);
+@import url(./Blocks/place/__website/place__website.css);
+@import url(./Blocks/place/__url-heading/place__url-heading.css);
+@import url(./Blocks/place/__link/place__link.css);
+@import url(./Blocks/place/__paragraph/place__paragraph.css);
 
 
-/* Cover */
+/* Cover
 @import url(./Blocks/cover/cover.css);
 @import url(./Blocks/cover/__title/cover__title.css);
 @import url(./Blocks/cover/__subtitle/cover__subtitle.css);
-@import url(./Blocks/cover/__link/cover__link.css);
+@import url(./Blocks/cover/__link/cover__link.css); */
