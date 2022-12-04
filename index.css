@@ -42,8 +42,15 @@
 @import url(./Blocks/place/__paragraph/place__paragraph.css);
 
 
-/* Cover
+/* Cover */
 @import url(./Blocks/cover/cover.css);
 @import url(./Blocks/cover/__title/cover__title.css);
 @import url(./Blocks/cover/__subtitle/cover__subtitle.css);
-@import url(./Blocks/cover/__link/cover__link.css); */
+@import url(./Blocks/cover/__link/cover__link.css);
+@import url(./Blocks/cover/__overlay/cover__overlay.css);
+
+/* Footer */
+@import url(./Blocks/footer/footer.css);
+@import url(./Blocks/footer/__links/footer__links.css);
+@import url(./Blocks/footer/__link/footer__link.css);
+@import url(./Blocks/footer/__copyright/footer__copyright.css);
