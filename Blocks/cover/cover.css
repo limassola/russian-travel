@@ -3,18 +3,7 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    max-width: 1280px;
     width: 100%;
-    position: relative;
+    margin: 0 auto;
 }
 
-.cover::before {
-    content: "";
-    display: block;
-    height: 100%;
-    width: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: rgba(42, 44, 47, 0.3);
-}

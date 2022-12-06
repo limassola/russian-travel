@@ -4,5 +4,11 @@
     line-height: 163%;
     margin: 0;
     padding: 0;
-   justify-items: stretch;
+}
+
+@media screen and (max-width: 768px) {
+    .place__paragraph {
+        font-size: 16px;
+        line-height: 163%;
+    }
 }
