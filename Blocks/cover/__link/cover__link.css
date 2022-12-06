@@ -1,13 +1,13 @@
 .cover__link {
     display: block;
-    padding: 245px 0 ;
+    padding: 245px 0;
     color: #fff;
     text-decoration: none;
     background-color: rgba(42, 44, 47, 0.3);
 }
 
 .cover__link:hover {
-    background-color: rgba(42, 44, 47, 0.8) ;
+    background-color: rgba(42, 44, 47, 0.8);
 }
 
 @media screen and (max-width: 1024px) {
