@@ -1,9 +1,0 @@
-.place__paragraph_position_top {
-    margin-bottom: 26px;
-}
-
-@media screen and (max-width: 768px) {
-    .place__paragraph_position_top {
-        margin-bottom: 25px;
-    }
-}
