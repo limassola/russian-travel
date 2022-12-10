@@ -3,7 +3,7 @@
     grid-template-columns: repeat(4,1fr);
     grid-template-rows: repeat(3, 1fr);
     align-items: center;
-    margin: 0 auto 92px;
+    margin: 0 auto 99px;
     gap: 16px 16px;
     width: 100%;
 }
@@ -21,7 +21,7 @@
         grid-template-columns: repeat(2, 1fr);
         gap: 16px 16px;
         max-width: 720px;
-        margin-bottom: 88px;
+        margin-bottom: 92px;
     }
 }
 
@@ -30,6 +30,6 @@
         grid-template-columns: 1fr;
         row-gap: 12px;
         max-width: 288px;
-        margin-bottom: 146px;
+        margin-bottom: 62px;
     }
 }

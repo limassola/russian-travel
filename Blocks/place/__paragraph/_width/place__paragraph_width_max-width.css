@@ -1,0 +1,5 @@
+@media screen and (min-width: 320px) and (max-width: 767px) {
+    .place__paragraph_width_max-width {
+        max-width: 283px;
+    }
+}

@@ -46,7 +46,7 @@
 @import url(../Blocks/place/__url-heading/place__url-heading.css);
 @import url(../Blocks/place/__link/place__link.css);
 @import url(../Blocks/place/__paragraph/place__paragraph.css);
-@import url(../Blocks/place/__paragraph/_position/place__paragraph_position_top.css);
+@import url(../Blocks/place/__paragraph/_width/place__paragraph_width_max-width.css);
 @import url(../Blocks/place/__text/place__text.css);
 
 
